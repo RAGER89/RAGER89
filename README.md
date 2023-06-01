@@ -1,4 +1,5 @@
 DADI UTENGA 
+
 IT Student|Web backend and App Developer | AI and Blockchain(Filecoin Smart contracts) Enthusiast
 
 Education
@@ -10,6 +11,7 @@ Frontend: Flutter, JavaScript, HTML, CSS, Bootstrap
 APIs and Integrations
 Exploring some basics in Selenium Smart contracts
 Smart Contract Development (Blockchain) (In Progress)
+
 Experience
 Developing Networking and Simple packages in Nuru":
 
