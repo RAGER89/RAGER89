@@ -29,12 +29,15 @@ Personal Projects:
 Developed a Langchain Projects , MiniGpt Chat systems:
 
 Engaged in various projects, including WhatsApp Automation, Web Scraping, and AI PROFESSIONAL Prompt Engineering. Collaborated with friends to develop applications that solve practical problems.
+
 Interests
 Passionate about exploring new technologies, particularly in the fields of AI and Blockchain.
 Enthusiastic about AI and have experimented with GPT-3.5-based chatbots. Eager to further develop skills in AI and leverage AI libraries like Hugging Face.
+
 Additional Information
 Actively involved in continuous learning, staying updated with the latest technologies through reading articles and exploring new tools.
 Demonstrated ability to learn independently and adapt to new technologies quickly.
 Currently learning some basics in AI and Blockchain domains to become an expert in these areas.
+
 Contact
 Email: Dadynasser89@gmail.com
